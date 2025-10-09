@@ -1,7 +1,11 @@
 # 💫 About Me:
-👋 Hi, I’m Victor Hugo<br><br>**19-year-old Systems Analysis and Development student** at Universidade Católica de Brasília (UCB).<br><br>---<br><br>
+👋 Hi there! I’m Victor👋<br><br>
+A 19-year-old Systems Analysis and Development student passionate about technology and software development..<br>
 ## 🚀 Goals 
-<br>- 🔭 I’m currently studying **Systems Analysis and Development** at UCB.<br>- 🌱 I’m passionate about **Learn new technologies**<br>- 👯 I’m looking to collaborate on **open-source projects** in Java and Angular.<br>- 🤔 I’m learning **Java**, **Angular**, and **TypeScript**.
+- 🔭 I’m currently studying **Systems Analysis and Development** at UCB.
+<br>- 🌱 I’m passionate about **Learn new technologies**
+<br>- 👯 I’m looking to collaborate on **open-source projects** in Java and Angular.
+<br>- 🤔 I’m learning **Java**, **Angular**, and **TypeScript**.
 
 
 # 💻 Tech Stack:
